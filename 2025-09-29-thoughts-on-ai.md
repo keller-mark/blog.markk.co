@@ -160,9 +160,11 @@ For instance, the system prompt may include suggestions for how the LLM should f
 
 If you are using an LLM via an intermediary, such as a customer service chat on an e-commerce website, there may be multiple levels of system prompts injected before any end-user prompt: one from the LLM provider, then another from the e-commerce web developer.
 
+#### Limits of context windows
 
 It is also important to remember that there are limits to LLM context (in terms of the number of tokens), referred to as the "context window".
 For current [open models](https://ollama.com/search), context window limits are generally ~2K-128K tokens (and typically increasing over time as new models are released).
+For this reason, LLMs perform best on well-scoped small tasks, without a bunch of unrelated text cluttering the context window (the buzzword for this is ["context engineering"](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)).
 
 
 ### LLMs are not good at creativity; they are optimized to produce the "average" prediction
