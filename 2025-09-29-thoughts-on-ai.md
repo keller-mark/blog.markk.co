@@ -2,7 +2,7 @@
 
 🚧 work in progress; some sections more complete than others
 
-_I like to think about this blog post as externalizing my thoughts on AI to free up space in my brain to think about other topics_
+_I like to think about this blog post as externalizing my thoughts on AI to free up space in my brain to think about other topics._
 
 ## What does it mean to be "fluent in AI"?
 
@@ -228,7 +228,7 @@ See Google's [environmental impact analysis](https://arxiv.org/abs/2508.15734).
 
 ### Closed vs. Open-weight vs. Open-source LLMs
 
-Could also mention local vs. hosted.
+<!-- Could also mention local vs. hosted. --> 
 
 ### Model weights can be manipulated
 
