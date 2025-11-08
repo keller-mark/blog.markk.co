@@ -5,4 +5,4 @@ Eventually I will get around to also rendering the posts on my website, but in t
 
 Table of contents
 
-- [./2025-09-29-thoughts-on-ai.md](How I am thinking about AI)
+- [How I am thinking about AI](./2025-09-29-thoughts-on-ai.md)
