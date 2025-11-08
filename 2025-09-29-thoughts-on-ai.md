@@ -3,6 +3,12 @@
 🚧 work in progress; some sections more complete than others
 
 _I like to think about this blog post as externalizing my thoughts on AI to free up space in my brain to think about other topics._
+_Caveat: I have a CS background, but do not claim to be an AI expert._
+
+
+_I am sure the answer(s) will evolve over time (and I may update this post over time)._
+
+
 
 ## What does it mean to be "fluent in AI"?
 
@@ -65,12 +71,6 @@ The panelists never addressed this, nor did they seem like they would be the rig
 In my personal life, I have also been thinking about this topic after a recent discussion with my parents about usage of AI in their (non-computational) workplaces.
 It got me thinking, what do I want my family members to know about AI?
 Similarly, if I had never studied computer science, what would I want a hypothetical non-CS version of myself to know about AI?
-
-
-_While I am sure the answer(s) will evolve over time (and I may update this post over time), I wanted to write down my current thinking around AI in response to these questions._
-
-
-_Caveat: I have a CS background, but do not claim to be an AI expert._
 
 
 ### Artificial Intelligence (AI) is an umbrella term for multiple things, but due to marketing is now synonymous with Large Language Model (LLM)
