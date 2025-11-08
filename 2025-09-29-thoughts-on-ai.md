@@ -110,9 +110,9 @@ Think back to when you were a student learning multiplication. Were you allowed 
 
 
 Think back to when you have taken standardized tests.
-At least when I took the SAT, we were not allowed to use computers, and there were strict calculator requirements.
+At least when I took the SAT, we were not allowed to use computers, and there were strict limits on what types of calculators could be used.
 When I took the GRE, it was on a computer at a testing center, without access to the internet or any applications beyond the testing software.
-Even if we view the AI as just another tool, I think it would be very appropriate to tightly restrict its usage in educational settings, especially in K-12 education.
+Even if we view the AI as just another tool, it would be very appropriate to tightly restrict its usage in educational settings, especially in K-12 education.
 
 
 Sure, eventually students are introduced to the TI-83, but this is not until the advanced math classes are reached.
