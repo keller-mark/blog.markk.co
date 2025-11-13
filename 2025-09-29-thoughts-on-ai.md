@@ -426,6 +426,7 @@ If so, take it with a grain of salt.
 On AI in education:
 - https://www.economist.com/podcasts/2025/09/20/we-dont-need-no-ai-education
 - https://statmodeling.stat.columbia.edu/2025/07/18/i-am-no-longer-chairing-defenses-or-joining-committees-where-students-use-generative-ai-for-their-writing/
+- https://www.ted.com/talks/advait_sarkar_how_to_stop_ai_from_killing_your_critical_thinking
 
 On AI in software development:
 - https://www.phillipcarter.dev/posts/coding-with-llms
