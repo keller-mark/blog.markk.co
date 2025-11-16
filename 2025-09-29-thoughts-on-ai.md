@@ -378,7 +378,7 @@ In a way, this makes sense though, as the LLM is only doing what we ask, and we 
 #### LLMs are bad at performance optimization
 
 - LLMs are good at producing language that follows patterns, such as code. It really knows very little about the context of the code to be able to optimize it, such as which variables may store very large arrays, or which functions will take a long time to compute. Their training is optimized to produce the next tokens that are probable; there is nothing in the training process that would optimize for next-tokens that have good performance (besides maybe basic patterns or lack thereof in the training data, such as lack of many nested for loops).
-- The LLM may be able to help optimize or analyze the big-O notation of a block of code, but only if you asked it to do so. It probably will not recognize "hot" code paths on its own without more context/prompting. 
+- The LLM may be able to help optimize or analyze the big-O notation of a block of code, but only if you asked it to do so. It probably will not recognize "hot" code paths on its own without more context/prompting. There is some [evidence](https://doi.org/10.48550/arXiv.2511.04427) for this.
 
 
 ## Do you like seeing AI in your vision of the future?
